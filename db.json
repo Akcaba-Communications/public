@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Mohamad Kaddoura",
         "phone": "+905338896660",
-        "sex": "M",
+        "gender": "M",
         "photo": "https://media.licdn.com/dms/image/C4E03AQFoB0qvQRxajw/profile-displayphoto-shrink_200_200/0/1652447935309?e=2147483647&v=beta&t=A6ReQKZMl3ZUAWiaQh2qQloDpKSAgl2VRezCAe7kiwQ",
         "nationality": "Palestine",
         "permissions": [
@@ -19,7 +19,7 @@
         "id": 2,
         "name": "Michael Chike Abiola",
         "phone": "+905338244846",
-        "sex": "M",
+        "gender": "M",
         "photo": "https://media.licdn.com/dms/image/C4E03AQF3v4dgQh096A/profile-displayphoto-shrink_800_800/0/1661358596600?e=2147483647&v=beta&t=WMESZaXSOy76w0tAKjmCxORsyIypmcGT7tCGnqjeNqo",
         "nationality": "Nigeria",
         "permissions": [
@@ -33,7 +33,7 @@
         "id": 3,
         "name": "David Omondiagbe",
         "phone": "+2349017465217",
-        "sex": "M",
+        "gender": "M",
         "photo": "https://i1.rgstatic.net/ii/profile.image/932700093431808-1599384439001_Q512/David-Omondiagbe.jpg",
         "nationality": "Nigeria",
         "permissions": [
@@ -50,7 +50,7 @@
         "id": 4,
         "name": "Faize Akçaba",
         "phone": "+2349017465217",
-        "sex": "F",
+        "gender": "F",
         "photo": "https://www.kibrispostasi.com/upload/news/a/ak/akcaba_yeni_4f37bbe6.gif",
         "nationality": "Cyprus",
         "permissions": [
